@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@zennolab_com/capmonstercloud-client": "^1.9.0",
+    "api-testing": "file:",
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "playwright": "^1.51.1",
+    "requests": "^0.3.0"
+  },
+  "name": "api-testing",
+  "version": "1.0.0",
+  "main": "captcha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
